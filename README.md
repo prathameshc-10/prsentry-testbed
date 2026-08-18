@@ -1,1 +1,1 @@
-This repo is created for testing prsentry -- for testing 
+This repo is created for testing prsentry -- 
